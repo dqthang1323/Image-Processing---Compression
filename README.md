@@ -8,6 +8,8 @@ How to use:
 2. pip install sklearn
 3. pip install numpy
 4. python processImage.py
+
+
 Result:
 
   Before:
