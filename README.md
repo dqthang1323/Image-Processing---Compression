@@ -5,8 +5,8 @@ Use KMeans Algorithm to do image compression
 How to use:
 
 1. pip install matplotlib
-2. pip install sklearn
-3. pip install numpy
+2. pip install numpy
+3. pip install sklearn
 4. python processImage.py
 
 
